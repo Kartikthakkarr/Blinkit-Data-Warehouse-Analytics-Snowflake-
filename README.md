@@ -74,6 +74,11 @@ Data warehousing fundamentals (fact & dimension modeling)
 Hands-on experience with Snowflake
 Writing SQL for analytical insights
 Building data-driven dashboards
+
+<p align="center">
+  <img src="./assets/snowflake-dashboard.png" width="600" title="Snowflake Business Dashboard">
+</p>
+
 ✍️ Author
 
 Kartik Thakkar
